@@ -1,0 +1,1 @@
+bg_forest_res7_bn_gfx.o: bg_forest_res7_bn_gfx.s

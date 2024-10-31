@@ -1,0 +1,1 @@
+ui_textbox_center_bn_gfx.o: ui_textbox_center_bn_gfx.s

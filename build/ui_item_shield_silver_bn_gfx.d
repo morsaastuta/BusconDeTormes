@@ -1,0 +1,1 @@
+ui_item_shield_silver_bn_gfx.o: ui_item_shield_silver_bn_gfx.s

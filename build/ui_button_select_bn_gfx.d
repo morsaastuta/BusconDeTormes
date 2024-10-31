@@ -1,0 +1,1 @@
+ui_button_select_bn_gfx.o: ui_button_select_bn_gfx.s

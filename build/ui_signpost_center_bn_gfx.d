@@ -1,0 +1,1 @@
+ui_signpost_center_bn_gfx.o: ui_signpost_center_bn_gfx.s

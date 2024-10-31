@@ -1,0 +1,1 @@
+s_seeker_golden_bn_gfx.o: s_seeker_golden_bn_gfx.s

@@ -1,0 +1,1 @@
+s_zafiolanzador_bn_gfx.o: s_zafiolanzador_bn_gfx.s

@@ -1,0 +1,1 @@
+tm_stage1_zb12_bn_gfx.o: tm_stage1_zb12_bn_gfx.s

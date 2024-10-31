@@ -1,0 +1,1 @@
+ui_textbox_left_bn_gfx.o: ui_textbox_left_bn_gfx.s
